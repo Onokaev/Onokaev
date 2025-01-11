@@ -1,4 +1,10 @@
 ## Hi there 👋
+### GitHub Stats
+
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
 
 <!--
 **Onokaev/Onokaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

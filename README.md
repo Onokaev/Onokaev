@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Onokaev&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Onokaev&count_private=true&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Onokaev&layout=compact&theme=radical)
 

@@ -1,22 +1,11 @@
-## Hi there 👋
-### GitHub Stats
+# Hi, I'm Evans 👋
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Onokaev&count_private=true&show_icons=true&theme=radical)
+I'm a Senior Software Engineer focused on AI infrastructure, distributed systems, and developer platforms. I build production systems and tools that make complex technology more reliable, useful, and easier for developers to work with.
+
+### [Explore my portfolio →](https://onokaev.github.io/my-portfolio/)
+
+## GitHub Stats
+
+![Evans' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Onokaev&count_private=true&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Onokaev&layout=compact&theme=radical)
-
-
-<!--
-**Onokaev/Onokaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

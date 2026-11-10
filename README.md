@@ -6,6 +6,6 @@ I'm a Senior Software Engineer focused on AI infrastructure, distributed systems
 
 ## GitHub Stats
 
-![Evans' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Onokaev&count_private=true&show_icons=true&theme=radical)
+![Evans' GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Onokaev&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Onokaev&layout=compact&theme=radical)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Onokaev&theme=radical)
